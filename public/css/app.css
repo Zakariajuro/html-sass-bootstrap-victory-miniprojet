@@ -17615,4 +17615,235 @@ header nav div a:hover {
   width: 100%;
 }
 
+#sectionquatre h1 {
+  text-align: center;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  font-size: 30px;
+}
+#sectionquatre div div div h2 {
+  font-family: victory;
+}
+#sectionquatre .container {
+  padding-bottom: 10%;
+}
+
+#divprix1 {
+  position: relative;
+}
+
+#prix1 {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  background-color: white;
+  padding-left: 15px;
+  padding-right: 15px;
+  padding-top: 4px;
+  padding-bottom: 4px;
+  margin-bottom: 0px;
+  color: red;
+  opacity: 0.8;
+}
+
+#sectioncinq h1 {
+  text-align: center;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  font-size: 30px;
+}
+#sectioncinq div div div #img5 {
+  width: 50%;
+  height: 100%;
+  background-image: url(../img/blog_item_01.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: 35%;
+  position: relative;
+}
+#sectioncinq div div div #img5 div {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: white;
+  padding-left: 15px;
+  padding-right: 15px;
+  padding-top: 4px;
+  padding-bottom: 4px;
+  margin-bottom: 0px;
+  color: red;
+  opacity: 0.8;
+}
+#sectioncinq div div div #img5 #imgblog {
+  display: none;
+}
+#sectioncinq div div div div {
+  width: 50%;
+  padding: 15px;
+}
+#sectioncinq div div div div h5 {
+  font-family: victory;
+}
+#sectioncinq div div div div p {
+  color: grey;
+}
+#sectioncinq div div div div a {
+  text-decoration: none;
+}
+
+#img6 {
+  width: 50%;
+  height: 100%;
+  background-image: url(../img/blog_item_02.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: 35%;
+  position: relative;
+}
+#img6 #date2 {
+  position: absolute;
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: white;
+  padding-left: 15px;
+  padding-right: 15px;
+  padding-top: 4px;
+  padding-bottom: 4px;
+  margin-bottom: 0px;
+  color: red;
+  opacity: 0.8;
+}
+
+#imgblog2 {
+  display: none;
+}
+
+#imgblog3 {
+  display: none;
+}
+
+#img7 {
+  width: 50%;
+  height: 100%;
+  background-image: url(../img/blog_item_03.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: 35%;
+  position: relative;
+}
+#img7 #date3 {
+  position: absolute;
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: white;
+  padding-left: 15px;
+  padding-right: 15px;
+  padding-top: 4px;
+  padding-bottom: 4px;
+  margin-bottom: 0px;
+  color: red;
+  opacity: 0.8;
+}
+
+#imgblog4 {
+  display: none;
+}
+
+#img8 {
+  width: 50%;
+  height: 100%;
+  background-image: url(../img/blog_item_04.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: 35%;
+  position: relative;
+}
+#img8 #date3 {
+  position: absolute;
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: white;
+  padding-left: 15px;
+  padding-right: 15px;
+  padding-top: 4px;
+  padding-bottom: 4px;
+  margin-bottom: 0px;
+  color: red;
+  opacity: 0.8;
+}
+
+#sectionsix {
+  background-image: url(../img/signup-bg.jpg);
+}
+#sectionsix h1 {
+  text-align: center;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  font-size: 30px;
+}
+#sectionsix form .form-group {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-bottom: 70px;
+  margin: 0;
+}
+#sectionsix form .form-group div input {
+  padding-right: 150px;
+}
+
+#button {
+  color: white;
+  border-color: white;
+  border-radius: 5px;
+  background-color: transparent;
+  padding: 5px 15px;
+}
+
+#footer {
+  background-color: #36406d;
+}
+#footer #div1 {
+  display: flex;
+  justify-content: space-around;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+#footer #div1 #copy {
+  width: 33.33%;
+  padding-left: 10%;
+}
+#footer #div1 #copy p {
+  color: white;
+  font-size: 10px;
+}
+#footer #div1 #icon {
+  width: 33.33%;
+  margin-left: 20%;
+  margin-right: 20%;
+}
+#footer #div1 #design {
+  padding-right: 10%;
+  width: 33.33%;
+}
+#footer #div1 #design p {
+  color: white;
+  font-size: 10px;
+}
+
+.icon {
+  padding: 10px;
+  border-radius: 50%;
+  background-color: white;
+  width: 36px;
+  height: 36px;
+}
+.icon i {
+  display: flex;
+  align-items: center;
+}
+
 /*# sourceMappingURL=app.css.map */
